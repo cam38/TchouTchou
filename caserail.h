@@ -2,17 +2,16 @@
 #define CASERAIL_H
 
 
-class caseRail
+class caseRail : public Case
 {
 protected:
     
+    int type_case = 0 ;
     
     
 public :
     
-    
-    
-    caseRail();
+    void afficher();
 };
 
 #endif // CASERAIL_H
