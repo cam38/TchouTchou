@@ -6,7 +6,7 @@ class caseRail : public Case
 {
 protected:
     
-    int type_case = 0 ; 
+    int type_case = 1 ; 
     // 0 : case vide
     // 1 : traversé horizontale
     // 2 : traversé verticale
