@@ -18,7 +18,7 @@ protected:
     
 public :
     
-    void afficher();
+    void afficher() const;
 };
 
 #endif // CASERAIL_H
