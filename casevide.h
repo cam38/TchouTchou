@@ -10,7 +10,7 @@ protected :
     
  public :   
     caseVide();
-    void afficher() ;
+    void afficher() const ;
 };
 
 #endif // CASEVIDE_H
