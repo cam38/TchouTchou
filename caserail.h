@@ -4,7 +4,14 @@
 
 class caseRail
 {
-public:
+protected:
+    
+    
+    
+public :
+    
+    
+    
     caseRail();
 };
 
