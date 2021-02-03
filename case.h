@@ -11,7 +11,7 @@ public :
     
     Case();
     
-    void afficher() ;
+    virtual void afficher() const = 0 ;
     void echanger(Case c1, Case c2) ;
     Point getPosition() ;
     void setPosition(Point p) ;
